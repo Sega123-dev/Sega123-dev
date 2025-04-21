@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **back-end and expanding front-end**
 
-- 📫 How to reach me **brajicsergej@gmail.com**
+- 📫 How to reach me <img src="{https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white}"></img>
 
 - ⚡ Fun fact: **I play way too much video games.**
 
