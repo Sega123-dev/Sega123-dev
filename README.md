@@ -3,10 +3,10 @@
 
 - 🔭 I’m currently working on: [Tool website](https://github.com/Sega123-dev/Tool-website)
 
-- 🌱 I’m currently learning ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+- 🌱 I’m currently learning **back-end and expanding front-end**
 
 
-- 📫 How to reach me <img src="{https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white}"></img>
+- 📫 How to reach me ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)(mailto:brajicsergej@gmail.com)
 
 - ⚡ Fun fact: **I play way too much video games.**
 
