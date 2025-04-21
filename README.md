@@ -6,7 +6,8 @@
 - 🌱 I’m currently learning **back-end and expanding front-end**
 
 
-- 📫 How to reach me ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)(mailto:brajicsergej@gmail.com)
+- 📫 How to reach me [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+
 
 - ⚡ Fun fact: **I play way too much video games.**
 
