@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sega</h1>
 <h3 align="center">A 17 year old self-taught developer from Bosnia and Herzegovina.</h3>
 
-- 🔭 I’m currently working on: [Tool website](https://github.com/Sega123-dev/Tool-website)
+- 🔭 I’m currently working on: [Stock market dashboard](https://github.com/Sega123-dev/Stock-market-dashboard)
 
 - 🌱 I’m currently learning **back-end and expanding front-end**
 
