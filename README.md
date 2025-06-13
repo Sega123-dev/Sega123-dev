@@ -11,7 +11,7 @@
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sega123-dev)
 
 
-- ⚡ Fun fact: **I play way too much video games.**
+- ⚡ Fun fact: **I like figther jets,video games and I can speak multiple languages**
 
 <h3 align="left">Tech stack:</h3> 
 
