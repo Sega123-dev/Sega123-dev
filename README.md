@@ -11,8 +11,6 @@
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sega123-dev)
 
 
-- ⚡ Fun fact: **I like figther jets,video games and I can speak multiple languages**
-
 <h3 align="left">Tech stack:</h3> 
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
