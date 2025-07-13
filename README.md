@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sega</h1>
-<h3 align="center">A 17 year old self-taught developer from Bosnia and Herzegovina.</h3>
+<h3 align="center">A 17 year old self-taught developer</h3>
 
 - 🔭 I’m currently working on: [Noxon](https://github.com/Sega123-dev/Noxon)
 
@@ -14,7 +14,7 @@
 <h3 align="left">Tech stack:</h3> 
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
