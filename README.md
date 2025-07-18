@@ -34,7 +34,7 @@
 ![JWT](https://img.shields.io/badge/JWT-800080?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-0052CC?style=for-the-badge&logo=api&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
-![EJS](https://img.shields.io/badge/EJS-02303A?style=for-the-badge&logo=ejs&logoColor=white)
+![EJS](https://img.shields.io/badge/EJS-8B0000?style=for-the-badge&logo=ejs&logoColor=white)
 
 <h3 align="left">Tools:</h3>
 
@@ -44,6 +44,6 @@
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
 ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)
 ![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white)
 
 
