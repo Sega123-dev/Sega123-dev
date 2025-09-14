@@ -29,7 +29,7 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-F57C00?style=for-the-badge&logo=firebase&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-800080?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![CC++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
+![a](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
 
 <h3 align="left">Tools:</h3>
 
