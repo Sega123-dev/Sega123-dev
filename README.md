@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sega</h1>
 <h3 align="center">A 17 year old self-taught developer</h3>
 
-- 🔭 I’m currently working on: [Noxon](https://github.com/Sega123-dev/Noxon)
+- 🔭 I’m currently working on: [NES emulator](https://github.com/Sega123-dev/NES-Emulator)
 
 - 🌱 I’m currently learning **back-end and expanding front-end**
 
