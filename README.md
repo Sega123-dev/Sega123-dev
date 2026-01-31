@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sega</h1>
-<h3 align="center">A 17 year old self-taught developer</h3>
+<h3 align="center">A 18 year old self-taught developer</h3>
 
 - 🔭 I’m currently working on: [NES emulator](https://github.com/Sega123-dev/NES-Emulator)
 
