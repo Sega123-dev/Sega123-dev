@@ -11,7 +11,7 @@
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sega123-dev)
 
 
-<h3 align="left">Tech stack:</h3> 
+<h3 align="left">Tech stack(current learnining path):</h3> 
 
 
 <h3 align="left">Front-end:</h3> 
@@ -27,11 +27,11 @@
 <h3 align="left">Back-end:</h3> 
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-007ACC?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/SQL-007ACC?style=for-the-badge&logo=mysql&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-800080?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-4CAF50?style=for-the-badge&logo=express&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 
 <h3 align="left">Tools:</h3>
