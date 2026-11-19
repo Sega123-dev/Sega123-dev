@@ -11,7 +11,7 @@
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sega123-dev)
 
 
-<h3 align="left">Tech stack(current learnining path):</h3> 
+<h3 align="left">Tech stack(current learning path):</h3> 
 
 
 <h3 align="left">Front-end:</h3> 
