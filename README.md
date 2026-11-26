@@ -28,7 +28,7 @@
 
 ![SQL](https://img.shields.io/badge/SQL-007ACC?style=for-the-badge&logo=mysql&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
-![Qt](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![Qt](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=qt&logoColor=white)
 
 
 <h3 align="left">Tools:</h3>
